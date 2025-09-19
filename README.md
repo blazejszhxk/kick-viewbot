@@ -1,3 +1,5 @@
+## [GOLANG VERSION](https://github.com/Butterski/kick-fake-views)
+
 ## Requirements
 - Python 3.11+
 - A proxy list file in the format `ip:port:user:pass` (e.g. for 10,000 views, 50 good proxies is usually enough).
@@ -26,4 +28,5 @@
 
 ---
 **Disclaimer:**
+
 This project is for educational purposes only. The author takes no responsibility for any use or misuse of this code. Use at your own risk.
