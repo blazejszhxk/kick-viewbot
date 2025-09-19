@@ -1,4 +1,4 @@
-## [GOLANG VERSION](https://github.com/Butterski/kick-fake-views)
+# [GOLANG VERSION](https://github.com/Butterski/kick-fake-views) by [Butterski](https://github.com/Butterski)
 
 ## Requirements
 - Python 3.11+
@@ -30,3 +30,4 @@
 **Disclaimer:**
 
 This project is for educational purposes only. The author takes no responsibility for any use or misuse of this code. Use at your own risk.
+
